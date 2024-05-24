@@ -75,3 +75,6 @@ Alternatively, if you prefer using Google Colab, you can upload the project file
 
 - Printed or displayed the generated recommendations to the user in a readable format.
 - Included relevant information such as track name, artists, album name, and popularity.
+
+![Screenshot 2024-05-25 032305](https://github.com/sandeshkhairnar/Music-Recommander-System-Using-Spotify/assets/145431558/487dfa82-fc38-495e-ada4-bc6412b32a01)
+
