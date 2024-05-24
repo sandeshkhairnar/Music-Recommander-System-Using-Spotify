@@ -52,26 +52,26 @@ Alternatively, if you prefer using Google Colab, you can upload the project file
 
 ## Process
 
-1.Implemented Spotify API Integration:
+1. Implemented Spotify API Integration:
 
 - Utilized obtained Spotify credentials to authenticate with the Spotify API.
 - Implemented functions to fetch music data from Spotify, such as trending playlists and track information.
 
-2.Data Preprocessing:
+2. Data Preprocessing:
 
 - Cleaned and preprocessed the fetched music data.
 - Extracted relevant features from the data, including track name, artists, album name, and audio features.
 
-3.Implemented Recommendation Algorithms:
+3. Implemented Recommendation Algorithms:
 
 - Implemented content-based and hybrid recommendation approaches to generate personalized recommendations.
 
-4.Generated Recommendations:
+4. Generated Recommendations:
 
 - Developed functions to generate music recommendations based on user input, such as song name or artist.
 - Utilized implemented recommendation algorithms to generate recommendations.
 
-5.Displayed Recommendations:
+5. Displayed Recommendations:
 
 - Printed or displayed the generated recommendations to the user in a readable format.
 - Included relevant information such as track name, artists, album name, and popularity.
